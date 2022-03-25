@@ -1,4 +1,4 @@
-# Materiale di Studio Algoritmi e Strutture Dati
+# Materiale di Studio - Algoritmi e Strutture Dati
 
 ### Contenuto
 
