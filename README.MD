@@ -10,7 +10,7 @@
 ### Progetto 
 
 Per il progetto si rimanda alle repository seguenti:
-- [Percorsi Arcipelago]](https://github.com/dennewbie/Percorsi_Arcipelago)
+- [Percorsi Arcipelago](https://github.com/dennewbie/Percorsi_Arcipelago)
 - [Insiemi RB Tree](https://github.com/dennewbie/Insiemi_RBTree)
 
 ### Note
