@@ -15,6 +15,7 @@ Per il progetto si rimanda alle repository seguenti:
 
 ### Note
 
+- È possibile che non sia possibile aprire l'archivio degli appunti nel caso in cui si scarica l'intera repository. Procedere quindi scaricando separatamente il file: appunti.zip.
 - Gli esercizi, gli appunti e il resto potrebbe contenere errori. Nel caso segnalarlo direttamente tramite un "Issue".
 - Se la repository ti è stata in qualche modo d'aiuto e vuoi farmelo sapere, lascia pure una "Star"
 
