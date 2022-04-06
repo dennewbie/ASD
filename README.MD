@@ -3,6 +3,7 @@
 ### Contenuto
 
 - Appunti di Teoria e di laboratorio
+- Tutte le dimostrazioni del corso "step by step"
 - Esercizi di laboratorio
 - Materiale Esame Scritto e Orale
 - Risorse per il Progetto
